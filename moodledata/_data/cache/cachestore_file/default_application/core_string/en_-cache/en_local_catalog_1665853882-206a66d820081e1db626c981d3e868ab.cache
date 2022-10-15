@@ -1,0 +1,1 @@
+a:6:{s:19:"product_description";s:12:"Description ";s:13:"product_title";s:5:"Title";s:14:"cancelled_form";s:22:"You cancelled the form";s:12:"updated_form";s:37:"Product {$title->title} is created Ok";s:11:"delete_form";s:37:"Product {$title->title} is created Ok";s:15:"manage_products";s:15:"Manage Products";}
